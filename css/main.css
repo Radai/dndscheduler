@@ -1,0 +1,17 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.not-sunday, .sunday {
+	height: 130px;
+	width: 150px;
+	border: solid black;
+}
+
+.not-sunday {
+	border-width: 1px 0px 1px 1px;
+}
+
+.sunday {
+	border-width: 1px;
+}
